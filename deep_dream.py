@@ -22,6 +22,7 @@ result_prefix = 'images/dreams/CheshireCat/dreamy/CheshireCat'
 img_width, img_height = 1200, 750
 
 # interesting settings
+### TODO: add more settings
 settings_preset = {
     'dreamy': {
         'features': {
